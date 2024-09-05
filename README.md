@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a design & UX-oriented full-stack developer from Helsinki, Finland. I'm passionate about quality, user experience and the craft of beautiful software that solves problems worth solving.
+I'm a design & UX-oriented full-stack developer from Helsinki, Finland. I'm passionate about quality, user experience and the craft of beautiful software that solves problems worth solving. Currently looking for new opportunities - if you have something of interest, feel free to reach out at hello@juiceo.me
 
 Personal website & blog: https://juiceo.me
 
