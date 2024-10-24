@@ -2,7 +2,6 @@
 
 I'm a design & UX-oriented full-stack developer from Helsinki, Finland. I'm passionate about quality, user experience and the craft of beautiful software that solves problems worth solving.
 
-Personal website & blog: https://juiceo.me
 
 <!--
 **juiceo/juiceo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
